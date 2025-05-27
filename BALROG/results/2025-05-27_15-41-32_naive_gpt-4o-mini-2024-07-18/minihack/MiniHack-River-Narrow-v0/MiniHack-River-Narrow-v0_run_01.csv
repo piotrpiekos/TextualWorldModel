@@ -1,0 +1,623 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,southwest,,"message:
+
+
+language observation:
+boulder far west
+dark area near north, northeast, east, southeast, south, southwest, west, and northwest
+water floor near east and southeast
+boulder near south and westsouthwest
+boulder very near west
+stairs up adjacent northeast
+
+cursor:
+Yourself a barbarian
+(x=41, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                                 `..   `.@..}                                   
+                                     `......}                                   
+                                    ........}                                   
+                                 ........`..}                                   
+                               .......... ..}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+1,west,,"message:
+
+
+language observation:
+boulder far west
+dark area near north, northeast, east, southeast, south, southwest, and northwest
+water floor near east and southeast
+boulder near southsoutheast and westsouthwest
+stairs up very near eastnortheast
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a barbarian
+(x=40, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                                 `..   `@...}                                   
+                                     `......}                                   
+                                    ........}                                   
+                                 ........`..}                                   
+                               .......... ..}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+2,west,,"message:
+With great effort you move the boulder.
+
+language observation:
+dark area far east
+boulder far west
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastnortheast
+water floor near east
+boulder near southsoutheast
+boulder very near westsouthwest
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a barbarian
+(x=39, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                                 `..  `@....}                                   
+                                     `......}                                   
+                                    ........}                                   
+                                 ........`..}                                   
+                               .......... ..}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+3,west,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastnortheast
+boulder near southeast and west
+dark area very near west
+boulder adjacent southwest and west
+
+cursor:
+Yourself a barbarian
+(x=38, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                                 `.. `@.....}                                   
+                                     `......}                                   
+                                    ........}                                   
+                                 ........`..}                                   
+                               .............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+4,west,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+dark area near north, northeast, southeast, south, southwest, west, and northwest
+stairs up near eastnortheast
+boulder near eastsoutheast and west
+boulder adjacent south and west
+
+cursor:
+Yourself a barbarian
+(x=37, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                                 `..`@......}                                   
+                                   ..`......}                                   
+                                 ...........}                                   
+                               ..........`..}                                   
+                             ...............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+5,west,,"message:
+
+
+language observation:
+stairs up far eastnortheast
+water floor far east
+dark area far east
+dark area near north, northeast, southeast, south, southwest, west, and northwest
+boulder near eastsoutheast and west
+boulder adjacent southeast and west
+
+cursor:
+Yourself a barbarian
+(x=36, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                                 `.`@.......}                                   
+                                  ...`......}                                   
+                                ............}                                   
+                              ...........`..}                                   
+                            ................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+6,west,,"message:
+
+
+language observation:
+stairs up far eastnortheast
+water floor far east
+boulder far eastsoutheast
+dark area near north, northeast, southeast, south, southwest, west, and northwest
+boulder very near eastsoutheast and west
+boulder adjacent west
+
+cursor:
+Yourself a barbarian
+(x=35, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                                 ``@........}                                   
+                                 ....`......}                                   
+                               .............}                                   
+                             ............`..}                                   
+                           .................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+7,west,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+stairs up far eastnortheast
+water floor far east
+boulder far eastsoutheast
+dark area near north, northeast, southeast, south, southwest, west, and northwest
+boulder very near eastsoutheast and west
+boulder adjacent west
+
+cursor:
+Yourself a barbarian
+(x=35, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                                 ``@........}                                   
+                                 ....`......}                                   
+                               .............}                                   
+                             ............`..}                                   
+                           .................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",-0.01,False
+8,south,,"message:
+
+
+language observation:
+stairs up far eastnortheast
+water floor far east
+boulder far eastsoutheast
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder very near east and westnorthwest
+boulder adjacent northwest
+
+cursor:
+Yourself a barbarian
+(x=35, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                          .....  ``.........}                                   
+                          .........@.`......}                                   
+                          ..................}                                   
+                          ...............`..}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+9,south,,"message:
+
+
+language observation:
+stairs up far eastnortheast
+water floor far east
+boulder far eastsoutheast
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder very near eastnortheast, northwest, and northnorthwest
+
+cursor:
+Yourself a barbarian
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                          .......``.........}                                   
+                          ...........`......}                                   
+                          .........@........}                                   
+                          ...............`..}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+10,south,,"message:
+
+
+language observation:
+dark area far north, northeast, and northwest
+stairs up far eastnortheast
+boulder far east
+water floor far east
+boulders near northnorthwest
+boulder very near northeast
+dark area very near southeast, south, and southwest
+
+cursor:
+Yourself a barbarian
+(x=35, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                          .......``.........}                                   
+                          ...........`......}                                   
+                          ..................}                                   
+                          .........@.....`..}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+11,south,,"message:
+
+
+language observation:
+dark area far north, northeast, and northwest
+stairs up far eastnortheast
+boulder far eastnortheast
+water floor far east
+boulder near northnortheast
+boulders near northnorthwest
+dark area adjacent southeast, south, and southwest
+
+cursor:
+Yourself a barbarian
+(x=35, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                          .......``.........}                                   
+                          ...........`......}                                   
+                          ..................}                                   
+                          ...............`..}                                   
+                          .........@........}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+12,south,,"message:
+It's solid stone.
+
+language observation:
+dark area far north, northeast, and northwest
+stairs up far eastnortheast
+boulder far eastnortheast
+water floor far east
+boulder near northnortheast
+boulders near northnorthwest
+dark area adjacent southeast, south, and southwest
+
+cursor:
+Yourself a barbarian
+(x=35, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                          .......``.........}                                   
+                          ...........`......}                                   
+                          ..................}                                   
+                          ...............`..}                                   
+                          .........@........}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",-0.01,False
+13,north,,"message:
+
+
+language observation:
+dark area far north, northeast, and northwest
+stairs up far eastnortheast
+boulder far east
+water floor far east
+boulders near northnorthwest
+boulder very near northeast
+dark area very near southeast, south, and southwest
+
+cursor:
+Yourself a barbarian
+(x=35, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                          .......``.........}                                   
+                          ...........`......}                                   
+                          ..................}                                   
+                          .........@.....`..}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+14,north,,"message:
+
+
+language observation:
+stairs up far eastnortheast
+water floor far east
+boulder far eastsoutheast
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder very near eastnortheast, northwest, and northnorthwest
+
+cursor:
+Yourself a barbarian
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ................<.}                                   
+                          .......``.........}                                   
+                          ...........`......}                                   
+                          .........@........}                                   
+                          ...............`..}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18/02 Dx:17 Co:18 In:7 Wi:7 Ch:6 Chaotic S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False

@@ -1,0 +1,15 @@
+{
+    "progression_percentage": 0.0,
+    "standard_error": 0.0,
+    "average_steps": 100.0,
+    "episodes_played": 2,
+    "tasks": {
+        "MiniHack-River-Narrow-v0": {
+            "progression_percentage": 0.0,
+            "standard_error": 0.0,
+            "episodes_played": 2
+        }
+    },
+    "input_tokens": 747960,
+    "output_tokens": 200
+}

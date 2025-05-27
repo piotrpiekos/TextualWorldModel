@@ -1,0 +1,35 @@
+{
+    "average_progress": 50.0,
+    "standard_error": 35.35533905932737,
+    "environments": {
+        "minihack": {
+            "progression_percentage": 50.0,
+            "standard_error": 35.35533905932737,
+            "episodes_played": 2
+        }
+    },
+    "total_input_tokens": 706261,
+    "total_output_tokens": 264,
+    "client": {
+        "client_name": "openai",
+        "model_id": "gpt-4o-mini-2024-07-18",
+        "base_url": "http://localhost:8080/v1",
+        "generate_kwargs": {
+            "temperature": 1.0,
+            "max_tokens": 4096
+        },
+        "timeout": 60,
+        "max_retries": 5,
+        "delay": 2,
+        "alternate_roles": false
+    },
+    "agent": {
+        "type": "naive",
+        "remember_cot": true,
+        "max_text_history": 16,
+        "max_image_history": 0,
+        "max_cot_history": 1,
+        "max_icl_history": 1000,
+        "cache_icl": false
+    }
+}

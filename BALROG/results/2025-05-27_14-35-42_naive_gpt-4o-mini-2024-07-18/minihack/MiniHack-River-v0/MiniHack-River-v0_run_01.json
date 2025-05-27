@@ -1,0 +1,56 @@
+{
+    "task": "MiniHack-River-v0",
+    "action_frequency": {
+        "west": 10,
+        "southwest": 7,
+        "northwest": 3,
+        "north": 35,
+        "northeast": 5,
+        "east": 7,
+        "southeast": 8,
+        "south": 25
+    },
+    "input_tokens": 380190,
+    "output_tokens": 156,
+    "done": true,
+    "episode_return": -0.2800000000000001,
+    "num_steps": 100,
+    "failed_candidates": [
+        "southsouthwest",
+        "southsouthwest",
+        "southsouthwest",
+        "southsouthwest",
+        "southsouthwest",
+        "southsouthwest",
+        "southsouthwest",
+        "southsouthwest",
+        "southsouthwest",
+        "northnorthwest"
+    ],
+    "progression": 0.0,
+    "end_reason": -1,
+    "process_num": null,
+    "seed": 3838989064,
+    "agent": {
+        "type": "naive",
+        "remember_cot": true,
+        "max_text_history": 16,
+        "max_image_history": 0,
+        "max_cot_history": 1,
+        "max_icl_history": 1000,
+        "cache_icl": false
+    },
+    "client": {
+        "client_name": "openai",
+        "model_id": "gpt-4o-mini-2024-07-18",
+        "base_url": "http://localhost:8080/v1",
+        "generate_kwargs": {
+            "temperature": 1.0,
+            "max_tokens": 4096
+        },
+        "timeout": 60,
+        "max_retries": 5,
+        "delay": 2,
+        "alternate_roles": false
+    }
+}

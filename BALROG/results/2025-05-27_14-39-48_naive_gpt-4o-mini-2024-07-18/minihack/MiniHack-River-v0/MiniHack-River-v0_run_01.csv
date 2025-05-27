@@ -1,0 +1,2953 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+1,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+2,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+3,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+4,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+5,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+6,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+7,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+8,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+9,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+10,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+11,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+12,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+13,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+14,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+15,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+16,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+17,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+18,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+19,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+20,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+21,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+22,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+23,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+24,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+25,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+26,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+27,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+28,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+29,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+30,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+31,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+32,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+33,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+34,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+35,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+36,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+37,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+38,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+39,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+40,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+41,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+42,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+43,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+44,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+45,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+46,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+47,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+48,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+49,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+50,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+51,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+52,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+53,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+54,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+55,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+56,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+57,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+58,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+59,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+60,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+61,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+62,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+63,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+64,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+65,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+66,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+67,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+68,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+69,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+70,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False
+71,northwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north
+boulders far eastnortheast
+boulder near eastnortheast
+dark area very near northeast
+boulder adjacent northeast
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...          .....}                                   
+                          ...        .......}                                   
+                          ..       ........                                     
+                          ..   ` ......     }                                   
+                          .    .....`   ....}                                   
+                          .` .............` }                                   
+                          @.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:10 Co:12 In:17 Wi:14 Ch:10 Neutral S:0  
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",-0.01,False

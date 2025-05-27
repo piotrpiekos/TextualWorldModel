@@ -1,0 +1,51 @@
+{
+    "task": "MiniHack-Quest-Medium-v0",
+    "action_frequency": {
+        "south": 20,
+        "east": 11,
+        "west": 9,
+        "north": 14,
+        "kick": 1,
+        "southwest": 1
+    },
+    "input_tokens": 175722,
+    "output_tokens": 64,
+    "done": true,
+    "episode_return": -0.15,
+    "num_steps": 56,
+    "failed_candidates": [
+        "kick northeast",
+        "kick east",
+        "kick east",
+        "attack east",
+        "attack east",
+        "attack east",
+        "attack east"
+    ],
+    "progression": 0.0,
+    "end_reason": 1,
+    "process_num": "ForkProcess-1",
+    "seed": 1958644511,
+    "agent": {
+        "type": "naive",
+        "remember_cot": true,
+        "max_text_history": 16,
+        "max_image_history": 0,
+        "max_cot_history": 1,
+        "max_icl_history": 1000,
+        "cache_icl": false
+    },
+    "client": {
+        "client_name": "openai",
+        "model_id": "gpt-4o-mini-2024-07-18",
+        "base_url": "http://localhost:8080/v1",
+        "generate_kwargs": {
+            "temperature": 1.0,
+            "max_tokens": 4096
+        },
+        "timeout": 60,
+        "max_retries": 5,
+        "delay": 2,
+        "alternate_roles": false
+    }
+}

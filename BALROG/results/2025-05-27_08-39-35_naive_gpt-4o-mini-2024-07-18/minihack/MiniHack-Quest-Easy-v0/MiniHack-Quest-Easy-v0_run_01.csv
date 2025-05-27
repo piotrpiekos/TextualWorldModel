@@ -1,0 +1,1209 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,east,,"message:
+
+
+language observation:
+sewer rat far eastsoutheast
+lava near eastnortheast, east, and southeast
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+vertical wall near southwest and west
+horizontal wall very near north, northeast, and northwest
+newt very near southsoutheast
+horn adjacent west
+
+cursor:
+Yourself a healer
+(x=27, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(@..}........-                                        
+                        |.....}......r..............|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:13(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+1,south,,"message:
+The newt bites!
+
+language observation:
+sewer rat far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+southwest corner near southwest
+vertical wall near west
+northwest room corner near northwest
+newt adjacent southeast
+horn adjacent northwest
+
+cursor:
+Yourself a healer
+(x=27, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |..@..}.....r...............|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:12(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+2,kick,,"message:
+In what direction?
+
+language observation:
+sewer rat far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+southwest corner near southwest
+vertical wall near west
+northwest room corner near northwest
+newt adjacent southeast
+horn adjacent northwest
+
+cursor:
+
+(x=19, y=0)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |..@..}.....r...............|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:12(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",-0.01,False
+3,south,,"message:
+You kick at empty space.  The newt bites!
+
+language observation:
+sewer rat far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+southwest corner near southwest
+vertical wall near west
+northwest room corner near northwest
+newt adjacent southeast
+horn adjacent northwest
+
+cursor:
+Yourself a healer
+(x=27, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |..@..}....r................|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:11(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+4,kick southeast,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+
+
+language observation:
+sewer rat far east
+lava near eastnortheast, east, and southeast
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+vertical wall near southwest and west
+horizontal wall very near north, northeast, and northwest
+newt very near southsoutheast
+horn adjacent west
+
+cursor:
+Yourself a healer
+(x=27, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(@..}...r....--------     |                           
+                        |.....}.....................|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:11(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+5,south,,"message:
+The newt bites!
+
+language observation:
+sewer rat far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+southwest corner near southwest
+vertical wall near west
+northwest room corner near northwest
+newt adjacent southeast
+horn adjacent northwest
+
+cursor:
+Yourself a healer
+(x=27, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |..@..}..r..................|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:10(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+6,kick southeast,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+
+
+language observation:
+lava near eastnortheast, east, and southeast
+area of lava near eastsoutheast
+sewer rat near east
+horizontal wall near southeast and south
+vertical wall near southwest and west
+horizontal wall very near north, northeast, and northwest
+newt very near southsoutheast
+horn adjacent west
+
+cursor:
+Yourself a healer
+(x=27, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(@..}.r......--------     |                           
+                        |.....}.....................|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:10(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+7,south,,"message:
+
+
+language observation:
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+sewer rat near east
+southwest corner near southwest
+vertical wall near west
+northwest room corner near northwest
+newt adjacent southeast
+horn adjacent northwest
+
+cursor:
+Yourself a healer
+(x=27, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |..@..}r....................|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:10(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+8,kick southeast,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+
+
+language observation:
+lava near eastnortheast, east, and southeast
+area of lava near eastsoutheast
+sewer rat near east
+horizontal wall near southeast and south
+vertical wall near southwest and west
+horizontal wall very near north, northeast, and northwest
+newt very near southsoutheast
+horn adjacent west
+
+cursor:
+Yourself a healer
+(x=27, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(@..}r.......--------     |                           
+                        |.....}.....................|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:10(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+9,east,,"message:
+
+
+language observation:
+sewer rat near eastnortheast
+horizontal wall near southeast and south
+lava near southsoutheast
+southwest corner near southwest
+vertical wall near west
+horizontal wall very near north, northeast, and northwest
+lava very near eastnortheast, east, eastsoutheast, and southeast
+newt very near south
+horn very near west
+
+cursor:
+Yourself a healer
+(x=28, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}r.....---                                        
+                        |.(.@.}........--------     |                           
+                        |.....}.....................|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:10(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+10,south,,"message:
+
+
+language observation:
+horizontal wall near north, northeast, southeast, south, southwest, and northwest
+sewer rat near eastnortheast
+vertical wall near west
+lava very near northeast, eastnortheast, east, eastsoutheast, and southeast
+horn very near westnorthwest
+newt adjacent south
+
+cursor:
+Yourself a healer
+(x=28, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}.r......--------     |                           
+                        |...@.}.....................|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:10(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+11,south,,"message:
+You miss the newt.
+
+language observation:
+horizontal wall near north, northeast, southeast, south, southwest, and northwest
+sewer rat near east
+vertical wall near west
+lava very near northeast, eastnortheast, east, eastsoutheast, and southeast
+horn very near westnorthwest
+newt adjacent south
+
+cursor:
+Yourself a healer
+(x=28, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |...@.}.r...................|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:10(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+12,kick south,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+
+
+language observation:
+sewer rat near eastsoutheast
+horizontal wall near southeast and south
+lava near southsoutheast
+southwest corner near southwest
+vertical wall near west
+horizontal wall very near north, northeast, and northwest
+lava very near eastnortheast, east, eastsoutheast, and southeast
+newt very near south
+horn very near west
+
+cursor:
+Yourself a healer
+(x=28, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(.@.}........--------     |                           
+                        |.....}.....................|                           
+                        |...:.}r.......--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:10(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+13,south,,"message:
+The newt bites!
+
+language observation:
+horizontal wall near north, northeast, southeast, south, southwest, and northwest
+sewer rat near east
+vertical wall near west
+lava very near northeast, eastnortheast, east, eastsoutheast, and southeast
+horn very near westnorthwest
+newt adjacent south
+
+cursor:
+Yourself a healer
+(x=28, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |...@.}r....................|                           
+                        |...:.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:8(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",0.0,False
+14,kick south,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+
+
+language observation:
+sewer rat near east
+horizontal wall near southeast and south
+lava near southsoutheast
+southwest corner near southwest
+vertical wall near west
+horizontal wall very near north, northeast, and northwest
+lava very near eastnortheast, east, eastsoutheast, and southeast
+horn very near west
+newt adjacent south
+
+cursor:
+Yourself a healer
+(x=28, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(.@.}r.......--------     |                           
+                        |...:.}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:9(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",0.0,False
+15,south,,"message:
+You miss the newt.
+
+language observation:
+sewer rat near eastnortheast
+horizontal wall near southeast and south
+lava near southsoutheast
+southwest corner near southwest
+vertical wall near west
+horizontal wall very near north, northeast, and northwest
+lava very near eastnortheast, east, eastsoutheast, and southeast
+horn very near west
+newt adjacent south
+
+cursor:
+Yourself a healer
+(x=28, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}r.....---                                        
+                        |.(.@.}........--------     |                           
+                        |...:.}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:9(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",0.0,False
+16,kick south,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+
+
+language observation:
+southwest corner far east
+sewer rat near eastsoutheast
+horizontal wall near southeast and south
+area of lava near southsoutheast
+vertical wall near southwest and west
+lava very near east, eastsoutheast, and southeast
+horn very near westsouthwest
+horizontal wall adjacent north, northeast, and northwest
+newt adjacent south
+
+cursor:
+Yourself a healer
+(x=28, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |...@.}......---                                        
+                        |.(.:.}r.......--------     |                           
+                        |.....}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:9(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",0.0,False
+17,south,,"message:
+You miss the newt.  The newt bites!
+
+language observation:
+southwest corner far east
+sewer rat near east
+horizontal wall near southeast and south
+area of lava near southsoutheast
+vertical wall near southwest and west
+lava very near east, eastsoutheast, and southeast
+horn very near westsouthwest
+horizontal wall adjacent north, northeast, and northwest
+newt adjacent south
+
+cursor:
+Yourself a healer
+(x=28, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |...@.}.r....---                                        
+                        |.(.:.}........--------     |                           
+                        |.....}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:7(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",0.0,False
+18,kick south,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+It's a wall.
+
+language observation:
+southwest corner far east
+sewer rat near east
+horizontal wall near southeast and south
+area of lava near southsoutheast
+vertical wall near southwest and west
+lava very near east, eastsoutheast, and southeast
+horn very near westsouthwest
+horizontal wall adjacent north, northeast, and northwest
+newt adjacent south
+
+cursor:
+Yourself a healer
+(x=28, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |...@.}.r....---                                        
+                        |.(.:.}........--------     |                           
+                        |.....}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:7(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",-0.01,False
+19,east,,"message:
+The newt bites!
+
+language observation:
+southwest corner far east
+sewer rat near eastsoutheast
+horizontal wall near southeast and south
+area of lava near southsoutheast
+southwest corner near southwest
+horn near westsouthwest
+vertical wall near west
+lava very near southsoutheast
+horizontal wall adjacent north, northeast, and northwest
+lava adjacent east and southeast
+newt adjacent southwest
+
+cursor:
+Yourself a healer
+(x=29, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |....@}......---                                        
+                        |.(.:.}.r......--------     |                           
+                        |.....}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:5(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",0.0,False
+20,south,,"message:
+
+
+language observation:
+horizontal wall near southeast, south, and southwest
+lava near southsoutheast
+horn near west
+vertical wall near west
+horizontal wall very near north, northeast, and northwest
+sewer rat very near eastsoutheast
+lava very near southsoutheast
+lava adjacent northeast, east, and southeast
+newt adjacent west
+
+cursor:
+Yourself a healer
+(x=29, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(.:@}........--------     |                           
+                        |.....}r....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:5(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",0.0,False
+21,south,,"message:
+The newt bites!
+
+language observation:
+horizontal wall near north, northeast, southeast, south, southwest, and northwest
+vertical wall near west
+horn near westnorthwest
+lava very near northnortheast and southsoutheast
+sewer rat very near eastnortheast
+lava adjacent northeast, east, and southeast
+newt adjacent northwest
+
+cursor:
+Yourself a healer
+(x=29, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(.:.}r.......--------     |                           
+                        |....@}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:4(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",0.0,False
+22,north,,"message:
+
+
+language observation:
+horizontal wall near southeast, south, and southwest
+lava near southsoutheast
+horn near west
+vertical wall near west
+horizontal wall very near north, northeast, and northwest
+sewer rat very near eastnortheast
+lava very near southsoutheast
+lava adjacent northeast, east, and southeast
+newt adjacent west
+
+cursor:
+Yourself a healer
+(x=29, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}r.....---                                        
+                        |.(.:@}........--------     |                           
+                        |.....}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:4(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",0.0,False
+23,south,,"message:
+
+
+language observation:
+horizontal wall near north, northeast, southeast, south, southwest, and northwest
+sewer rat near eastnortheast
+vertical wall near west
+horn near westnorthwest
+lava very near northnortheast and southsoutheast
+lava adjacent northeast, east, and southeast
+newt adjacent northwest
+
+cursor:
+Yourself a healer
+(x=29, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(.:.}.r......--------     |                           
+                        |....@}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:4(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",0.0,False
+24,south,,"message:
+
+
+language observation:
+horizontal wall near north, northeast, and northwest
+lava near northnortheast
+sewer rat near eastnortheast
+vertical wall near west
+horn near westnorthwest
+lava very near northnortheast
+horizontal wall very near southeast, south, and southwest
+newt adjacent north
+lava adjacent northeast, east, and southeast
+
+cursor:
+Yourself a healer
+(x=29, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |....:}.r...................|                           
+                        |....@}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:0   
+Dlvl:1 $:1036 HP:4(13) Pw:6(6) AC:8 Xp:1/0                                      
+
+",0.0,False
+25,north,,"message:
+You kill the newt!
+
+language observation:
+horizontal wall near north, northeast, and northwest
+lava near northnortheast
+vertical wall near west
+horn near westnorthwest
+lava very near northnortheast
+sewer rat very near east
+horizontal wall very near southeast, south, and southwest
+newt corpse adjacent north
+lava adjacent northeast, east, and southeast
+
+cursor:
+Yourself a healer
+(x=29, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |....%}.....................|                           
+                        |....@}r.......--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:7 Co:16 In:10 Wi:15 Ch:17 Neutral S:4   
+Dlvl:1 $:1036 HP:4(13) Pw:6(6) AC:8 Xp:1/1                                      
+
+",0.0,False
+26,east,,"message:
+ 
+You made the top ten list!
+No  Points     Name
+Hp [max]
+1          4  Agent-Hea-Hum-Fem-Neu died in The Dunge
+eons of Doom on
+level 1.  Burned by molten lava.
+-  [13]
+
+
+language observation:
+dark area adjacent east, southeast, and south
+
+cursor:
+very far eastsoutheast 
+(x=23, y=9)
+
+map:
+You made the top ten list!                                                      
+                                                                                
+                           No  Points     Name                                  
+                 Hp [max]                                                       
+                           1          4  Agent-Hea-Hum-Fem-Neu died in The Dunge
+ons of Doom on                                                                  
+                                        level 1.  Burned by molten lava.        
+                -  [13]                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+
+",0.0,True

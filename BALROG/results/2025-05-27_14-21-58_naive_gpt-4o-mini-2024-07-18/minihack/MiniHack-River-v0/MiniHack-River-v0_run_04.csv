@@ -1,0 +1,1958 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,west,,"message:
+
+
+language observation:
+boulder far westnorthwest
+dark area near north, northeast, east, southeast, south, southwest, and northwest
+boulder near westnorthwest
+water floor very near northeast, east, and southeast
+boulder very near westsouthwest
+dark area very near west
+stairs up adjacent east
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=42, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                     .......}                                   
+                                   ` `......}                                   
+                                   .........}                                   
+                                       .....}                                   
+                                         `@<}                                   
+                                        `...}                                   
+                                       .....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+1,west,,"message:
+
+
+language observation:
+boulder far westnorthwest
+dark area near north, northeast, east, southeast, south, southwest, and northwest
+water floor near northeast and east
+boulder near westnorthwest
+stairs up very near east
+dark area very near west
+boulder adjacent southwest and west
+
+cursor:
+Yourself a samurai
+(x=41, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                     .......}                                   
+                                   ` `......}                                   
+                                   .........}                                   
+                                       .....}                                   
+                                        `@.<}                                   
+                                        `...}                                   
+                                       .....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+2,west,,"message:
+
+
+language observation:
+dark area near north, northeast, east, southeast, south, southwest, and northwest
+water floor near northeast and east
+stairs up near east
+boulder near westnorthwest and northwest
+dark area very near west
+boulder adjacent south and west
+
+cursor:
+Yourself a samurai
+(x=40, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                   . .......}                                   
+                                   `.`......}                                   
+                                   .........}                                   
+                                      ......}                                   
+                                       `@..<}                                   
+                                      ..`...}                                   
+                                    ........}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+3,west,,"message:
+
+
+language observation:
+dark area far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near east
+water floor near east
+boulder near westnorthwest and northnorthwest
+dark area very near west
+boulder adjacent southeast and west
+
+cursor:
+Yourself a samurai
+(x=39, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                   . .......}                                   
+                                   `.`......}                                   
+                                   .........}                                   
+                                     .......}                                   
+                                      `@...<}                                   
+                                     ...`...}                                   
+                                   .........}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+4,west,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near east
+boulder near northwest and northnorthwest
+boulder very near eastsoutheast
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=38, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                              .... .........}                                   
+                                ...`.`......}                                   
+                                  ..........}                                   
+                                    ........}                                   
+                                     `@....<}                                   
+                                    ....`...}                                   
+                                  ..........}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+5,west,,"message:
+
+
+language observation:
+stairs up far east
+water floor far east
+dark area far east
+boulder near north, eastsoutheast, and northnorthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=37, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                             ..... .........}                                   
+                               ....`.`......}                                   
+                                 ...........}                                   
+                                   .........}                                   
+                                    `@.....<}                                   
+                                   .....`...}                                   
+                                 ...........}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+6,west,,"message:
+
+
+language observation:
+stairs up far east
+water floor far east
+dark area far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near northnortheast, eastsoutheast, and northnorthwest
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                            ................}                                   
+                              .....`.`......}                                   
+                                ............}                                   
+                                  ..........}                                   
+                                   `@......<}                                   
+                                  ......`...}                                   
+                                ............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+7,west,,"message:
+
+
+language observation:
+stairs up far east
+water floor far east
+boulder near north, northnortheast, and eastsoutheast
+dark area near north, northeast, southeast, south, southwest, and northwest
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                           .................}                                   
+                             ......`.`......}                                   
+                               .............}                                   
+                                 ...........}                                   
+                                  `@.......<}                                   
+                                 .......`...}                                   
+                               .............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+8,west,,"message:
+
+
+language observation:
+stairs up far east
+boulder far eastsoutheast
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near northnortheast and northeast
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=34, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                            .......`.`......}                                   
+                              ..............}                                   
+                                ............}                                   
+                                 `@........<}                                   
+                                ........`...}                                   
+                              ..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+9,west,,"message:
+
+
+language observation:
+stairs up far east
+boulder far eastsoutheast and westnorthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near northnortheast and eastnortheast
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=33, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                           `.......`.`......}                                   
+                             ...............}                                   
+                               .............}                                   
+                                `@.........<}                                   
+                               .........`...}                                   
+                             ...............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+10,west,,"message:
+
+
+language observation:
+stairs up far east
+boulder far eastsoutheast
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near northeast, eastnortheast, and westnorthwest
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=32, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                           `.......`.`......}                                   
+                            ................}                                   
+                              ..............}                                   
+                               `@..........<}                                   
+                              ..........`...}                                   
+                            ................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+11,west,,"message:
+
+
+language observation:
+boulder far eastnortheast and eastsoutheast
+stairs up far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near eastnortheast and westnorthwest
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=31, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                           `.......`.`......}                                   
+                           .................}                                   
+                             ...............}                                   
+                              `@...........<}                                   
+                             ...........`...}                                   
+                           .................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+12,west,,"message:
+
+
+language observation:
+boulder far eastnortheast and eastsoutheast
+stairs up far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near eastnortheast and northwest
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=30, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          .`.......`.`......}                                   
+                          ..................}                                   
+                            ................}                                   
+                             `@............<}                                   
+                            ............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+13,west,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far eastnortheast
+stairs up far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near northnorthwest
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=29, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          .`.......`.`......}                                   
+                          ..................}                                   
+                           .................}                                   
+                            `@.............<}                                   
+                           .............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+14,west,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far eastnortheast
+stairs up far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near northnorthwest
+dark area very near west
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=28, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          .`.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                           `@..............<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+15,west,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far eastnortheast
+stairs up far east
+boulder near north
+dark area near north, northeast, southeast, and south
+dark area very near southwest, west, and northwest
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          .`.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `@...............<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+16,west,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far eastnortheast
+stairs up far east
+boulder near north
+dark area near north, northeast, southeast, and south
+dark area very near southwest, west, and northwest
+boulder adjacent west
+
+cursor:
+Yourself a samurai
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          .`.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `@...............<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+17,north,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far eastnortheast
+stairs up far eastsoutheast
+dark area near north, northeast, southeast, and south
+boulder very near north
+dark area very near southwest, west, and northwest
+boulder adjacent southwest
+
+cursor:
+Yourself a samurai
+(x=27, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          .`.......`.`......}                                   
+                          ..................}                                   
+                          .@................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+18,north,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far eastnortheast
+stairs up far eastsoutheast
+dark area near north, northeast, southeast, and south
+boulder very near southsouthwest
+dark area very near southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          .`.......`.`......}                                   
+                          .@................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+19,north,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+20,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+21,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+22,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+23,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+24,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+25,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+26,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+27,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+28,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+29,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+30,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+31,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+32,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+33,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+34,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+35,southsouthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+36,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near southsouthwest
+dark area very near north, northeast, southwest, west, and northwest
+boulder adjacent north
+
+cursor:
+Yourself a samurai
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .@.......`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+37,northwest,,"message:
+
+
+language observation:
+boulders far eastsoutheast
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near south
+dark area adjacent north, northeast, southwest, west, and northwest
+boulder adjacent east
+
+cursor:
+Yourself a samurai
+(x=26, y=8)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          @`................}                                   
+                          .........`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+38,south,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+stairs up far eastsoutheast
+dark area far southeast and south
+boulder near south
+dark area very near north and northeast
+boulder adjacent northeast
+dark area adjacent southwest, west, and northwest
+
+cursor:
+Yourself a samurai
+(x=26, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          @........`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+39,south,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far eastnortheast
+stairs up far eastsoutheast
+dark area near north, northeast, southeast, and south
+boulder very near northnortheast and south
+dark area adjacent southwest, west, and northwest
+
+cursor:
+Yourself a samurai
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .........`.`......}                                   
+                          @.................}                                   
+                          ..................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+40,south,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far eastnortheast
+stairs up far eastsoutheast
+dark area near north, northeast, southeast, and south
+boulder near northnortheast
+boulder adjacent south
+dark area adjacent southwest, west, and northwest
+
+cursor:
+Yourself a samurai
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .........`.`......}                                   
+                          ..................}                                   
+                          @.................}                                   
+                          `................<}                                   
+                          ..............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+41,south,,"message:
+With great effort you move the boulder.
+
+language observation:
+boulder far eastsoutheast
+boulders far eastnortheast
+stairs up far east
+dark area near north, northeast, southeast, and south
+boulder near northnortheast
+boulder adjacent south
+dark area adjacent southwest, west, and northwest
+
+cursor:
+Yourself a samurai
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .........`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          @................<}                                   
+                          `.............`...}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+42,south,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up far eastnortheast
+boulder near northnortheast
+dark area very near southeast and south
+boulder adjacent south
+dark area adjacent southwest, west, and northwest
+
+cursor:
+Yourself a samurai
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .........`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          .................<}                                   
+                          @.............`...}                                   
+                          `.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",0.0,False
+43,south,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up far eastnortheast
+boulder near northnortheast
+dark area very near southeast and south
+boulder adjacent south
+dark area adjacent southwest, west, and northwest
+
+cursor:
+Yourself a samurai
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .........`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          .................<}                                   
+                          @.............`...}                                   
+                          `.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False
+44,south,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up far eastnortheast
+boulder near northnortheast
+dark area very near southeast and south
+boulder adjacent south
+dark area adjacent southwest, west, and northwest
+
+cursor:
+Yourself a samurai
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .`................}                                   
+                          .........`.`......}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          .................<}                                   
+                          @.............`...}                                   
+                          `.................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Hatamoto             St:18 Dx:16 Co:18 In:8 Wi:8 Ch:7 Lawful S:0      
+Dlvl:1 $:0 HP:15(15) Pw:2(2) AC:4 Xp:1/0                                        
+
+",-0.01,False

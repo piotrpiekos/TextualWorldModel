@@ -1,0 +1,260 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,northeast,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+newt far eastsoutheast
+lava near east, southeast, and southsoutheast
+area of lava near eastsoutheast
+kobold zombie near southeast
+horizontal wall near southeast and south
+vertical wall near southwest and west
+horizontal wall adjacent north, northeast, and northwest
+horn adjacent southwest
+
+cursor:
+Yourself a cavewoman
+(x=27, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |..@..}......---                                        
+                        |.(...}........-                                        
+                        |.....}..................>..|                           
+                        |.....}.......:--------     |                           
+                        |.....}Z.....---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:18 In:8 Wi:8 Ch:7 Lawful S:0   
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:8 Xp:1/0                                        
+
+",0.0,False
+1,east,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+southwest corner far east
+newt far eastsoutheast
+kobold zombie near southeast
+horizontal wall near southeast and south
+area of lava near southsoutheast
+vertical wall near southwest and west
+lava very near east, eastsoutheast, and southeast
+horn very near westsouthwest
+horizontal wall adjacent north, northeast, and northwest
+
+cursor:
+Yourself a cavewoman
+(x=28, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |...@.}......---                                        
+                        |.(...}........-                                        
+                        |.....}......:...........>..|                           
+                        |.....}Z.......--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:18 In:8 Wi:8 Ch:7 Lawful S:0   
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:8 Xp:1/0                                        
+
+",0.0,False
+2,south,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+newt far eastsoutheast
+kobold zombie near eastsoutheast
+horizontal wall near southeast and south
+lava near southsoutheast
+southwest corner near southwest
+vertical wall near west
+horizontal wall very near north, northeast, and northwest
+lava very near eastnortheast, east, eastsoutheast, and southeast
+horn very near west
+
+cursor:
+Yourself a cavewoman
+(x=28, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(.@.}........-                                        
+                        |.....}Z.....:...........>..|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:18 In:8 Wi:8 Ch:7 Lawful S:0   
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:8 Xp:1/0                                        
+
+",0.0,False
+3,south,,"message:
+
+
+language observation:
+stairs down very far east
+newt far east
+horizontal wall near north, northeast, southeast, south, southwest, and northwest
+kobold zombie near eastnortheast
+vertical wall near west
+lava very near northeast, eastnortheast, east, eastsoutheast, and southeast
+horn very near westnorthwest
+
+cursor:
+Yourself a cavewoman
+(x=28, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}Z.......--------     |                           
+                        |...@.}......:...........>..|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:18 In:8 Wi:8 Ch:7 Lawful S:0   
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:8 Xp:1/0                                        
+
+",0.0,False
+4,east,,"message:
+
+
+language observation:
+stairs down very far east
+newt far east
+horizontal wall near north, northeast, southeast, south, southwest, and northwest
+vertical wall near west
+horn near westnorthwest
+lava very near northnortheast and southsoutheast
+kobold zombie very near eastnortheast
+lava adjacent northeast, east, and southeast
+
+cursor:
+Yourself a cavewoman
+(x=29, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}Z.......--------     |                           
+                        |....@}.....:............>..|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:18 In:8 Wi:8 Ch:7 Lawful S:0   
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:8 Xp:1/0                                        
+
+",0.0,False
+5,northeast,,"message:
+ 
+No  Points     Name                                                   Hp [max]
+0  Agent-Cav-Hum-Fem-Law died in The Dungeons of Doom on
+level 1.  Burned by molten lava.                        -  [16]
+
+
+language observation:
+dark area adjacent east, southeast, and south
+
+cursor:
+very far eastsoutheast 
+(x=77, y=6)
+
+map:
+ No  Points     Name                                                   Hp [max] 
+                                                                                
+            0  Agent-Cav-Hum-Fem-Law died in The Dungeons of Doom on            
+                                                                                
+              level 1.  Burned by molten lava.                        -  [16]   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+
+",0.0,True

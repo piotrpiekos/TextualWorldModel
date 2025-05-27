@@ -1,0 +1,3606 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,southwest,,"message:
+
+
+language observation:
+boulders far eastsoutheast
+dark area near north, northeast, southeast, south, west, and northwest
+boulder very near south
+dark area very near southwest
+stairs up adjacent northeast
+boulder adjacent southwest
+
+cursor:
+Yourself a valkyrie
+(x=28, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..@...............}                                   
+                           `.......`  ..`   }                                   
+                            `.........  `                                       
+                             ..............                                     
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+1,southwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+dark area very near southwest, west, and northwest
+boulder adjacent southeast and southwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          .@.......`  ..`   }                                   
+                          `.`...........`                                       
+                           . ...............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+2,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near west
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          .........`  ..`   }                                   
+                          `.@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+3,southwest,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulders far eastnortheast
+stairs up near northnortheast
+boulder very near east
+dark area very near west and northwest
+dark area adjacent southeast, south, and southwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          .........`  ..`   }                                   
+                          `.............`                                       
+                          .@.`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+4,northwest,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+dark area far north and northeast
+boulders far eastnortheast
+stairs up near northnortheast
+boulder very near east
+dark area very near west and northwest
+dark area adjacent southeast, south, and southwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          .........`  ..`   }                                   
+                          `.............`                                       
+                          .@.`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",-0.01,False
+5,southwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north and northeast
+boulders far eastnortheast
+stairs up near northnortheast
+boulder very near east
+dark area very near west and northwest
+dark area adjacent southeast, south, and southwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          .........`  ..`   }                                   
+                          `.............`                                       
+                          .@.`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",-0.01,False
+6,southwest,,"message:
+It's solid stone.
+
+language observation:
+dark area far north and northeast
+boulders far eastnortheast
+stairs up near northnortheast
+boulder very near east
+dark area very near west and northwest
+dark area adjacent southeast, south, and southwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          .........`  ..`   }                                   
+                          `.............`                                       
+                          .@.`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",-0.01,False
+7,west,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulders far eastnortheast
+stairs up near northnortheast
+boulder near east
+boulder adjacent north
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a valkyrie
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          .........`  ..`   }                                   
+                          `.............`                                       
+                          @..`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+8,north,,"message:
+With great effort you move the boulder.
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northeast
+boulder near eastsoutheast
+dark area very near southeast and south
+boulder adjacent north
+dark area adjacent southwest, west, and northwest
+
+cursor:
+Yourself a valkyrie
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          `........`  ..`   }                                   
+                          @.............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+9,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulders far eastnortheast
+stairs up near northnortheast
+boulder very near east and northnorthwest
+dark area very near west and northwest
+dark area adjacent southeast, south, and southwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          `........`  ..`   }                                   
+                          ..............`                                       
+                          .@.`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+10,northnorthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+boulder very near eastsoutheast
+dark area very near southeast, south, southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          `........`  ..`   }                                   
+                          .@............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+11,southwest,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulders far eastnortheast
+stairs up near northnortheast
+boulder near east
+boulder very near north
+dark area adjacent southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a valkyrie
+(x=26, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          `........`  ..`   }                                   
+                          ..............`                                       
+                          @..`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+12,north,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northeast
+boulder near eastsoutheast
+dark area very near southeast and south
+boulder adjacent north
+dark area adjacent southwest, west, and northwest
+
+cursor:
+Yourself a valkyrie
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          ..................}                                   
+                          `........`  ..`   }                                   
+                          @.............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+13,north,,"message:
+With great effort you move the boulder.
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area near north, northeast, southeast, and south
+stairs up near eastnortheast
+boulder near eastsoutheast
+boulder adjacent north
+dark area adjacent southwest, west, and northwest
+
+cursor:
+Yourself a valkyrie
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          @........`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+14,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+boulder very near eastsoutheast and northnorthwest
+dark area very near southeast, south, southwest, west, and northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          .@............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+15,northnorthwest,,"
+
+Your previous output did not contain a valid action. Defaulted to action: north
+
+Observation:
+message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+16,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+17,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+18,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+19,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+20,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+21,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+22,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+23,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+24,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+25,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+26,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+27,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+28,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+29,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+30,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+31,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+32,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+33,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+34,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+35,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+36,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+37,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+38,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+39,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+40,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+41,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+42,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+43,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+44,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+45,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+46,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+47,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+48,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+49,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+50,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+51,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+52,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+53,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+54,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+55,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+56,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+57,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+58,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+59,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+60,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+61,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+62,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+63,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+64,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+65,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+66,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+67,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+68,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+69,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+70,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+71,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+72,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+73,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+74,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+75,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+76,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+77,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+78,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+79,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+80,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+81,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+82,southeast,,"message:
+
+
+language observation:
+dark area far north and northeast
+boulder far east
+boulders far eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+dark area very near southeast, south, and southwest
+boulder very near northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a valkyrie
+(x=28, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .........`  ..`   }                                   
+                          ..@...........`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False
+83,northwest,,"message:
+
+
+language observation:
+boulder far eastsoutheast
+boulders far east
+dark area far east
+dark area near north, northeast, southeast, and south
+stairs up very near northeast
+boulder very near southeast
+dark area very near southwest, west, and northwest
+boulder adjacent northwest
+
+cursor:
+Yourself a valkyrie
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..................}                                   
+                          ...<..............}                                   
+                          `.................}                                   
+                          .@.......`  ..`   }                                   
+                          ..............`                                       
+                          ...`..............}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Stripling            St:18/03 Dx:14 Co:18 In:8 Wi:7 Ch:8 Neutral S:0  
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:6 Xp:1/0                                        
+
+",0.0,False

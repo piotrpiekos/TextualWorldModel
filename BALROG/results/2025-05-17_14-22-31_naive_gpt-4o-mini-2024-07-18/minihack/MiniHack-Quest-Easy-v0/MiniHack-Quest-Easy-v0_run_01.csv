@@ -1,0 +1,3346 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,southwest,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+lichen very near eastnortheast
+goblin very near southeast
+horn adjacent northeast
+vertical wall adjacent southwest, west, and northwest
+
+cursor:
+Yourself a archeologist
+(x=25, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(F..}........--------     |                           
+                        |@....}...................>.|                           
+                        |.....}........--------     |                           
+                        |..o..}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:0     
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",0.0,False
+1,southeast,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+lichen very near northnortheast
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+goblin adjacent southeast
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(F..}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |..o..}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:0     
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/0                                        
+
+",0.0,False
+2,southeast,,"message:
+You kill the goblin!
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+lichen very near northnortheast
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+orcish dagger adjacent southeast
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(F..}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |..)..}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:24    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/6                                        
+
+",-0.01,False
+3,pickup,,"message:
+There is nothing here to pick up.
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+lichen very near northnortheast
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+orcish dagger adjacent southeast
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(F..}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |..)..}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:24    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/6                                        
+
+",-0.01,False
+4,southeast,,"message:
+You see here a crude dagger.
+
+language observation:
+stairs down very far eastnortheast
+lichen near north
+horizontal wall near north and northeast
+lava near northnortheast, northeast, and east
+area of lava near eastnortheast
+vertical wall near west and northwest
+horn near northnorthwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=27, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(F..}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |..@..}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:24    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/6                                        
+
+",0.0,False
+5,pickup,,"message:
+j - a crude dagger.
+
+language observation:
+stairs down very far eastnortheast
+lichen near north
+horizontal wall near north and northeast
+lava near northnortheast, northeast, and east
+area of lava near eastnortheast
+vertical wall near west and northwest
+horn near northnorthwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=27, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(F..}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |..@..}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:24    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/6                                        
+
+",0.0,False
+6,north,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near northeast, east, and eastsoutheast
+area of lava near eastnortheast
+vertical wall near west and northwest
+lichen very near north
+horizontal wall very near southeast, south, and southwest
+horn very near northnorthwest
+
+cursor:
+Yourself a archeologist
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(F..}........--------     |                           
+                        |.....}...................>.|                           
+                        |..@..}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:24    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/6                                        
+
+",-0.01,False
+7,north,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+southwest corner near southwest
+vertical wall near west
+northwest room corner near northwest
+lichen adjacent north
+horn adjacent northwest
+
+cursor:
+Yourself a archeologist
+(x=27, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(F..}........--------     |                           
+                        |..@..}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:24    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/6                                        
+
+",0.0,False
+8,north,,"message:
+You miss the lichen.
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+southwest corner near southwest
+vertical wall near west
+northwest room corner near northwest
+lichen adjacent north
+horn adjacent northwest
+
+cursor:
+Yourself a archeologist
+(x=27, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(F..}........--------     |                           
+                        |..@..}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:24    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/6                                        
+
+",-0.01,False
+9,north,,"message:
+You miss the lichen.
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+southwest corner near southwest
+vertical wall near west
+northwest room corner near northwest
+lichen adjacent north
+horn adjacent northwest
+
+cursor:
+Yourself a archeologist
+(x=27, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(F..}........--------     |                           
+                        |..@..}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:24    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/6                                        
+
+",0.0,False
+10,north,,"message:
+You kill the lichen!
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+southwest corner near southwest
+vertical wall near west
+northwest room corner near northwest
+horn adjacent northwest
+
+cursor:
+Yourself a archeologist
+(x=27, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |..@..}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+11,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast, east, and southeast
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+vertical wall near southwest and west
+horizontal wall very near north, northeast, and northwest
+horn adjacent west
+
+cursor:
+Yourself a archeologist
+(x=27, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(@..}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+12,northwest,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near east and southeast
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+vertical wall very near southwest and west
+horizontal wall adjacent north, northeast, and northwest
+horn adjacent south
+
+cursor:
+Yourself a archeologist
+(x=26, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.@...}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+13,south,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+14,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near east and southeast
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+vertical wall very near southwest and west
+horizontal wall adjacent north, northeast, and northwest
+horn adjacent south
+
+cursor:
+Yourself a archeologist
+(x=26, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.@...}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+15,south,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+16,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near east and southeast
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+vertical wall very near southwest and west
+horizontal wall adjacent north, northeast, and northwest
+horn adjacent south
+
+cursor:
+Yourself a archeologist
+(x=26, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.@...}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+17,south,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+18,south,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+19,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+20,south,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+21,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+22,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near east and southeast
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+vertical wall very near southwest and west
+horizontal wall adjacent north, northeast, and northwest
+horn adjacent south
+
+cursor:
+Yourself a archeologist
+(x=26, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.@...}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+23,south,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+24,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near east and southeast
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+vertical wall very near southwest and west
+horizontal wall adjacent north, northeast, and northwest
+horn adjacent south
+
+cursor:
+Yourself a archeologist
+(x=26, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.@...}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+25,south,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+26,south,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+27,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+28,south,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+29,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+30,south,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+31,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+32,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horn near north
+horizontal wall near north and northeast
+lava near northeast and east
+area of lava near eastnortheast
+vertical wall very near west and northwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.@...}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+33,south,,"message:
+It's a wall.
+
+language observation:
+stairs down very far eastnortheast
+horn near north
+horizontal wall near north and northeast
+lava near northeast and east
+area of lava near eastnortheast
+vertical wall very near west and northwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.@...}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+34,north,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+35,north,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+36,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+37,north,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+38,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+39,north,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+40,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+41,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horn near north
+horizontal wall near north and northeast
+lava near northeast and east
+area of lava near eastnortheast
+vertical wall very near west and northwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.@...}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+42,north,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+43,north,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+44,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+45,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horn near north
+horizontal wall near north and northeast
+lava near northeast and east
+area of lava near eastnortheast
+vertical wall very near west and northwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.@...}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+46,north,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+47,north,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+48,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+49,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near east and southeast
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+vertical wall very near southwest and west
+horizontal wall adjacent north, northeast, and northwest
+horn adjacent south
+
+cursor:
+Yourself a archeologist
+(x=26, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.@...}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+50,north,,"message:
+It's a wall.
+
+language observation:
+stairs down very far eastsoutheast
+lava near east and southeast
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+vertical wall very near southwest and west
+horizontal wall adjacent north, northeast, and northwest
+horn adjacent south
+
+cursor:
+Yourself a archeologist
+(x=26, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.@...}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+51,south,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+52,south,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+53,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+54,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horn near north
+horizontal wall near north and northeast
+lava near northeast and east
+area of lava near eastnortheast
+vertical wall very near west and northwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.@...}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+55,north,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+56,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horn near north
+horizontal wall near north and northeast
+lava near northeast and east
+area of lava near eastnortheast
+vertical wall very near west and northwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.@...}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+57,north,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+58,north,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+59,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+60,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horn near north
+horizontal wall near north and northeast
+lava near northeast and east
+area of lava near eastnortheast
+vertical wall very near west and northwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.@...}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+61,north,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+62,north,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+63,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+64,north,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near east and southeast
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+vertical wall very near southwest and west
+horizontal wall adjacent north, northeast, and northwest
+horn adjacent south
+
+cursor:
+Yourself a archeologist
+(x=26, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.@...}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+65,south,,"message:
+
+
+language observation:
+stairs down very far eastsoutheast
+lava near eastnortheast and east
+area of lava near eastsoutheast
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+66,south,,"message:
+
+
+language observation:
+stairs down very far east
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a archeologist
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.@...}...................>.|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+67,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+68,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horn near north
+horizontal wall near north and northeast
+lava near northeast and east
+area of lava near eastnortheast
+vertical wall very near west and northwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.@...}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+69,south,,"message:
+It's a wall.
+
+language observation:
+stairs down very far eastnortheast
+horn near north
+horizontal wall near north and northeast
+lava near northeast and east
+area of lava near eastnortheast
+vertical wall very near west and northwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.@...}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+70,north,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+71,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horn near north
+horizontal wall near north and northeast
+lava near northeast and east
+area of lava near eastnortheast
+vertical wall very near west and northwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.@...}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+72,north,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+73,south,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horn near north
+horizontal wall near north and northeast
+lava near northeast and east
+area of lava near eastnortheast
+vertical wall very near west and northwest
+horizontal wall adjacent southeast, south, and southwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.....}........--------     |                           
+                        |.@...}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+74,north,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near east and eastsoutheast
+area of lava near eastnortheast
+horn very near north
+horizontal wall very near southeast and south
+southwest corner very near southwest
+vertical wall very near west and northwest
+
+cursor:
+Yourself a archeologist
+(x=26, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |.@...}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+75,east,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near northeast, east, and eastsoutheast
+area of lava near eastnortheast
+vertical wall near west and northwest
+horizontal wall very near southeast, south, and southwest
+horn very near northnorthwest
+
+cursor:
+Yourself a archeologist
+(x=27, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |..@..}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+76,east,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north and northeast
+lava near northnortheast
+vertical wall near west
+northwest room corner near northwest
+lava very near northeast, eastnortheast, east, and eastsoutheast
+horizontal wall very near southeast, south, and southwest
+horn very near northwest
+
+cursor:
+Yourself a archeologist
+(x=28, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |...@.}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",-0.01,False
+77,east,,"message:
+
+
+language observation:
+stairs down very far eastnortheast
+horizontal wall near north, northeast, and northwest
+lava near northnortheast
+vertical wall near west
+horn near westnorthwest
+lava very near northnortheast
+horizontal wall very near southeast, south, and southwest
+lava adjacent northeast, east, and southeast
+
+cursor:
+Yourself a archeologist
+(x=29, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}........--------     |                           
+                        |.....}...................>.|                           
+                        |....@}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Digger               St:13 Dx:8 Co:13 In:13 Wi:18 Ch:9 Lawful S:40    
+Dlvl:1 $:0 HP:13(13) Pw:2(2) AC:9 Xp:1/10                                       
+
+",0.0,False
+78,east,,"message:
+ 
+You made the top ten list!
+No  Points     Name
+Hp [max]
+1         40  Agent-Arc-Hum-Fem-Law died in The Dunge
+eons of Doom on
+level 1.  Burned by molten lava.
+-  [13]
+
+
+language observation:
+dark area adjacent east, southeast, and south
+
+cursor:
+very far eastsoutheast 
+(x=23, y=9)
+
+map:
+You made the top ten list!                                                      
+                                                                                
+                           No  Points     Name                                  
+                 Hp [max]                                                       
+                           1         40  Agent-Arc-Hum-Fem-Law died in The Dunge
+ons of Doom on                                                                  
+                                        level 1.  Burned by molten lava.        
+                -  [13]                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+
+",0.0,True

@@ -1,0 +1,1267 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,northwest,,"message:
+
+
+language observation:
+boulder far eastnortheast, east, and eastsoutheast
+dark area far west
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near eastsoutheast and westnorthwest
+stairs up adjacent southeast
+
+cursor:
+Yourself a rogue
+(x=33, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ................  }                                   
+                            ............` ..}                                   
+                          .. `..............}                                   
+                          .......@.........`                                    
+                          ........<.`   `                                       
+                          .............                                         
+                          .................                                     
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+1,east,,"message:
+
+
+language observation:
+boulder far eastnortheast, east, and eastsoutheast
+dark area far west
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest
+boulder very near eastsoutheast
+stairs up adjacent south
+
+cursor:
+Yourself a rogue
+(x=34, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ................  }                                   
+                            ............` ..}                                   
+                          .. `..............}                                   
+                          ........@........`                                    
+                          ........<.`  .`                                       
+                          .............                                         
+                          .................                                     
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+2,west,,"message:
+
+
+language observation:
+boulder far eastnortheast, east, and eastsoutheast
+dark area far west
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near eastsoutheast and westnorthwest
+stairs up adjacent southeast
+
+cursor:
+Yourself a rogue
+(x=33, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ................  }                                   
+                            ............` ..}                                   
+                          .. `..............}                                   
+                          .......@.........`                                    
+                          ........<.`  .`                                       
+                          .............                                         
+                          .................                                     
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+3,east,,"message:
+
+
+language observation:
+boulder far eastnortheast, east, and eastsoutheast
+dark area far west
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest
+boulder very near eastsoutheast
+stairs up adjacent south
+
+cursor:
+Yourself a rogue
+(x=34, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ................  }                                   
+                            ............` ..}                                   
+                          .. `..............}                                   
+                          ........@........`                                    
+                          ........<.`  .`                                       
+                          .............                                         
+                          .................                                     
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+4,east,,"message:
+
+
+language observation:
+boulder far east and westnorthwest
+dark area far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near eastnortheast and eastsoutheast
+boulder adjacent southeast
+stairs up adjacent southwest
+
+cursor:
+Yourself a rogue
+(x=35, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ................  }                                   
+                           .............` ..}                                   
+                          .. `..............}                                   
+                          .........@.......`                                    
+                          ........<.` ..`                                       
+                          ............. ..                                      
+                          .................                                     
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+5,east,,"message:
+
+
+language observation:
+boulder far east and westnorthwest
+dark area far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near eastnortheast and eastsoutheast
+stairs up very near westsouthwest
+boulder adjacent south
+
+cursor:
+Yourself a rogue
+(x=36, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ................  }                                   
+                           .............` ..}                                   
+                          .. `..............}                                   
+                          ..........@......`                                    
+                          ........<.`...`                                       
+                          ................                                      
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+6,east,,"message:
+
+
+language observation:
+boulder far east and westnorthwest
+dark area far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near eastnortheast and eastsoutheast
+stairs up near westsouthwest
+boulder adjacent southwest
+
+cursor:
+Yourself a rogue
+(x=37, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ................  }                                   
+                           .............` ..}                                   
+                          .. `..............}                                   
+                          ...........@.....`                                    
+                          ........<.`...`                                       
+                          ................                                      
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+7,east,,"message:
+
+
+language observation:
+dark area far east
+boulder far westnorthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near east
+stairs up near westsouthwest
+boulder very near northeast, eastsoutheast, and westsouthwest
+
+cursor:
+Yourself a rogue
+(x=38, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ................ .}                                   
+                          ..............`...}                                   
+                          .. `..............}                                   
+                          ............@....`                                    
+                          ........<.`...`  .}                                   
+                          ................  }                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+8,east,,"message:
+
+
+language observation:
+boulder far westnorthwest
+dark area near north, northeast, east, southeast, south, southwest, and northwest
+boulder near east and westsouthwest
+stairs up near westsouthwest
+boulder very near northnortheast
+boulder adjacent southeast
+
+cursor:
+Yourself a rogue
+(x=39, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}                                   
+                          .. `..............}                                   
+                          .............@...`                                    
+                          ........<.`...` ..}                                   
+                          ................  }                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+9,east,,"message:
+
+
+language observation:
+stairs up far westsouthwest
+boulder far westnorthwest
+dark area near north, northeast, east, southeast, south, southwest, and northwest
+boulder near east and westsouthwest
+boulder very near north
+boulder adjacent south
+
+cursor:
+Yourself a rogue
+(x=40, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}                                   
+                          .. `..............}                                   
+                          ..............@..`                                    
+                          ........<.`...`...}                                   
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+10,east,,"message:
+
+
+language observation:
+stairs up far westsouthwest
+boulder far westnorthwest
+dark area near north, northeast, east, southeast, south, southwest, and northwest
+water floor near northeast and southeast
+boulder near westsouthwest
+boulder very near east and northnorthwest
+boulder adjacent southwest
+
+cursor:
+Yourself a rogue
+(x=41, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}                                   
+                          .. `..............}                                   
+                          ...............@.`                                    
+                          ........<.`...`...}                                   
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+11,east,,"message:
+
+
+language observation:
+stairs up far westsouthwest
+boulder far westsouthwest and westnorthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+water floor very near northeast and southeast
+dark area very near east
+boulder very near westsouthwest and northwest
+boulder adjacent east
+
+cursor:
+Yourself a rogue
+(x=42, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}                                   
+                          .. `..............}                                   
+                          ................@`                                    
+                          ........<.`...`...}                                   
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+12,east,,"message:
+You push the boulder into the water.  Now you can cross it!
+
+language observation:
+stairs up far westsouthwest
+boulder far westsouthwest and westnorthwest
+dark area near north, south, southwest, and northwest
+boulder near westsouthwest and westnorthwest
+dark area very near northeast, east, and southeast
+water floor adjacent northeast and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}                                   
+                          .. `..............}                                   
+                          .................@.                                   
+                          ........<.`...`...}                                   
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+13,east,,"message:
+
+
+language observation:
+stairs up far westsouthwest
+boulder far westsouthwest and westnorthwest
+water floor near north and south
+dark area near north, south, southwest, and northwest
+boulder near westsouthwest and westnorthwest
+water floor very near north and south
+dark area very near northeast, east, and southeast
+water floor adjacent north, northeast, east, southeast, and south
+
+cursor:
+Yourself a rogue
+(x=44, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}                                   
+                          .. `..............}}                                  
+                          ..................@}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+14,north,,"message:
+You try to crawl out of the water.  Pheew!  That was close.
+
+language observation:
+stairs up far westsouthwest
+boulder far westsouthwest and westnorthwest
+water floor near north and south
+dark area near north, south, southwest, and northwest
+boulder near westsouthwest and westnorthwest
+water floor very near north and south
+dark area very near northeast, east, and southeast
+water floor adjacent north, northeast, east, southeast, and south
+
+cursor:
+Yourself a rogue
+(x=44, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          ..................@}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+15,north,,"message:
+Pheew!  That was close.
+
+language observation:
+stairs up far westsouthwest
+boulder far westsouthwest and westnorthwest
+dark area near north, northeast, east, south, southwest, and northwest
+boulder near westsouthwest and westnorthwest
+water floor very near northeast and east
+dark area very near southeast
+water floor adjacent northeast and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          .................@.}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+16,east,,"message:
+
+
+language observation:
+stairs up far westsouthwest
+boulder far westsouthwest and westnorthwest
+water floor near north and south
+dark area near north, south, southwest, and northwest
+boulder near westsouthwest and westnorthwest
+water floor very near north and south
+dark area very near northeast, east, and southeast
+water floor adjacent north, northeast, east, southeast, and south
+
+cursor:
+Yourself a rogue
+(x=44, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          ..................@}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+17,north,,"message:
+Pheew!  That was close.
+
+language observation:
+stairs up far westsouthwest
+boulder far westsouthwest and westnorthwest
+dark area near north, northeast, east, south, southwest, and northwest
+boulder near westsouthwest and westnorthwest
+water floor very near northeast and east
+dark area very near southeast
+water floor adjacent northeast and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          .................@.}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+18,east,,"message:
+
+
+language observation:
+stairs up far westsouthwest
+boulder far westsouthwest and westnorthwest
+water floor near north and south
+dark area near north, south, southwest, and northwest
+boulder near westsouthwest and westnorthwest
+water floor very near north and south
+dark area very near northeast, east, and southeast
+water floor adjacent north, northeast, east, southeast, and south
+
+cursor:
+Yourself a rogue
+(x=44, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          ..................@}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+19,north,,"message:
+You try to crawl out of the water.  Pheew!  That was close.
+
+language observation:
+stairs up far westsouthwest
+boulder far westsouthwest and westnorthwest
+water floor near north and south
+dark area near north, south, southwest, and northwest
+boulder near westsouthwest and westnorthwest
+water floor very near north and south
+dark area very near northeast, east, and southeast
+water floor adjacent north, northeast, east, southeast, and south
+
+cursor:
+Yourself a rogue
+(x=44, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          ..................@}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+20,north,,"message:
+Pheew!  That was close.
+
+language observation:
+stairs up far westsouthwest
+boulder far westsouthwest and westnorthwest
+dark area near north, northeast, east, south, southwest, and northwest
+boulder near westsouthwest and westnorthwest
+water floor very near northeast and east
+dark area very near southeast
+water floor adjacent northeast and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          .................@.}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+21,east,,"message:
+
+
+language observation:
+stairs up far westsouthwest
+boulder far westsouthwest and westnorthwest
+water floor near north and south
+dark area near north, south, southwest, and northwest
+boulder near westsouthwest and westnorthwest
+water floor very near north and south
+dark area very near northeast, east, and southeast
+water floor adjacent north, northeast, east, southeast, and south
+
+cursor:
+Yourself a rogue
+(x=44, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          ..................@}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+22,north,,"message:
+Pheew!  That was close.
+
+language observation:
+dark area far south and southwest
+boulders far westsouthwest
+stairs up far westsouthwest
+dark area near east and southeast
+boulder near southwest and west
+dark area very near north, northeast, and northwest
+water floor very near east and southeast
+water floor adjacent northeast, east, and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`..@}}                                  
+                          .. `..............}}                                  
+                          ...................}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+23,north,,"message:
+
+
+language observation:
+dark area far south and southwest
+boulders far westsouthwest
+stairs up far westsouthwest
+dark area near southeast
+boulder near southsouthwest and westsouthwest
+dark area very near east
+water floor very near southeast
+dark area adjacent north, northeast, and northwest
+water floor adjacent east and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=8)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .................@}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          ...................}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+24,north,,"message:
+It's solid stone.
+
+language observation:
+dark area far south and southwest
+boulders far westsouthwest
+stairs up far westsouthwest
+dark area near southeast
+boulder near southsouthwest and westsouthwest
+dark area very near east
+water floor very near southeast
+dark area adjacent north, northeast, and northwest
+water floor adjacent east and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=8)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .................@}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          ...................}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",-0.01,False
+25,south,,"message:
+
+
+language observation:
+dark area far south and southwest
+boulders far westsouthwest
+stairs up far westsouthwest
+dark area near east and southeast
+boulder near southwest and west
+dark area very near north, northeast, and northwest
+water floor very near east and southeast
+water floor adjacent northeast, east, and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`..@}}                                  
+                          .. `..............}}                                  
+                          ...................}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+26,north,,"message:
+
+
+language observation:
+dark area far south and southwest
+boulders far westsouthwest
+stairs up far westsouthwest
+dark area near southeast
+boulder near southsouthwest and westsouthwest
+dark area very near east
+water floor very near southeast
+dark area adjacent north, northeast, and northwest
+water floor adjacent east and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=8)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .................@}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          ...................}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+27,south,,"message:
+
+
+language observation:
+dark area far south and southwest
+boulders far westsouthwest
+stairs up far westsouthwest
+dark area near east and southeast
+boulder near southwest and west
+dark area very near north, northeast, and northwest
+water floor very near east and southeast
+water floor adjacent northeast, east, and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=9)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ..................}                                   
+                          ..............`..@}}                                  
+                          .. `..............}}                                  
+                          ...................}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+28,north,,"message:
+
+
+language observation:
+dark area far south and southwest
+boulders far westsouthwest
+stairs up far westsouthwest
+dark area near southeast
+boulder near southsouthwest and westsouthwest
+dark area very near east
+water floor very near southeast
+dark area adjacent north, northeast, and northwest
+water floor adjacent east and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=8)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .................@}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          ...................}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+29,north,,"message:
+It's solid stone.
+
+language observation:
+dark area far south and southwest
+boulders far westsouthwest
+stairs up far westsouthwest
+dark area near southeast
+boulder near southsouthwest and westsouthwest
+dark area very near east
+water floor very near southeast
+dark area adjacent north, northeast, and northwest
+water floor adjacent east and southeast
+
+cursor:
+Yourself a rogue
+(x=43, y=8)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          .................@}                                   
+                          ..............`...}}                                  
+                          .. `..............}}                                  
+                          ...................}                                  
+                          ........<.`...`...}}                                  
+                          ..................}                                   
+                          ..................}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Footpad              St:18 Dx:18 Co:10 In:9 Wi:15 Ch:8 Chaotic S:0    
+Dlvl:1 $:0 HP:11(11) Pw:2(2) AC:7 Xp:1/0                                        
+
+",-0.01,False

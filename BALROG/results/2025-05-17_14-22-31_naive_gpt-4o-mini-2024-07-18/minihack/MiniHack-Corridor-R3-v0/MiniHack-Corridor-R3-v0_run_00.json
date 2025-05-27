@@ -1,0 +1,55 @@
+{
+    "task": "MiniHack-Corridor-R3-v0",
+    "action_frequency": {
+        "north": 15,
+        "south": 24,
+        "east": 21,
+        "west": 22,
+        "search": 17,
+        "open": 1
+    },
+    "input_tokens": 334564,
+    "output_tokens": 114,
+    "done": true,
+    "episode_return": -0.13999999999999999,
+    "num_steps": 100,
+    "failed_candidates": [
+        "open northnortheast",
+        "open northeast",
+        "open east",
+        "open northeast",
+        "kick northeast",
+        "open northeast",
+        "open southeast",
+        "open east",
+        "open northeast",
+        "open east",
+        "open east"
+    ],
+    "progression": 0.0,
+    "end_reason": -1,
+    "process_num": "ForkProcess-11",
+    "seed": 2521395268,
+    "agent": {
+        "type": "naive",
+        "remember_cot": true,
+        "max_text_history": 16,
+        "max_image_history": 0,
+        "max_cot_history": 1,
+        "max_icl_history": 1000,
+        "cache_icl": false
+    },
+    "client": {
+        "client_name": "openai",
+        "model_id": "gpt-4o-mini-2024-07-18",
+        "base_url": "http://localhost:8080/v1",
+        "generate_kwargs": {
+            "temperature": 1.0,
+            "max_tokens": 4096
+        },
+        "timeout": 60,
+        "max_retries": 5,
+        "delay": 2,
+        "alternate_roles": false
+    }
+}

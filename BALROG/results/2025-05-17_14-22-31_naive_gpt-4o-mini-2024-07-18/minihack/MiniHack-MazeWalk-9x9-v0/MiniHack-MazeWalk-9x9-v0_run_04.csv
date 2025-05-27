@@ -1,0 +1,239 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,east,,"message:
+
+
+language observation:
+dark area far east
+stairs down near east
+dark area very near southeast, southwest, and west
+dark area adjacent north, northeast, south, and northwest
+stairs up adjacent west
+
+cursor:
+Yourself a barbarian
+(x=37, y=8)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                    <@....>                                     
+                                    . .                                         
+                                    . .                                         
+                                    .                                           
+                                    .                                           
+                                    .                                           
+                                    .                                           
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18 Dx:18 Co:16 In:9 Wi:9 Ch:8 Chaotic S:0     
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+1,east,,"message:
+
+
+language observation:
+stairs down near east
+dark area near east, south, and west
+stairs up very near west
+dark area adjacent north, northeast, southeast, southwest, and northwest
+
+cursor:
+Yourself a barbarian
+(x=38, y=8)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                    <.@...>                                     
+                                    . .                                         
+                                    . .                                         
+                                    .                                           
+                                    .                                           
+                                    .                                           
+                                    .                                           
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18 Dx:18 Co:16 In:9 Wi:9 Ch:8 Chaotic S:0     
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+2,east,,"message:
+
+
+language observation:
+stairs down near east
+dark area near east and west
+stairs up near west
+dark area very near southwest
+dark area adjacent north, northeast, southeast, south, and northwest
+
+cursor:
+Yourself a barbarian
+(x=39, y=8)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                    <..@..>                                     
+                                    . .                                         
+                                    . .                                         
+                                    .                                           
+                                    .                                           
+                                    .                                           
+                                    .                                           
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18 Dx:18 Co:16 In:9 Wi:9 Ch:8 Chaotic S:0     
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+3,east,,"message:
+
+
+language observation:
+dark area near east and west
+stairs up near west
+stairs down very near east
+dark area adjacent north, northeast, southeast, south, southwest, and northwest
+
+cursor:
+Yourself a barbarian
+(x=40, y=8)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                    <...@.>                                     
+                                    . .                                         
+                                    . .                                         
+                                    .                                           
+                                    .                                           
+                                    .                                           
+                                    .                                           
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18 Dx:18 Co:16 In:9 Wi:9 Ch:8 Chaotic S:0     
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+4,east,,"message:
+
+
+language observation:
+dark area far west
+stairs up near west
+dark area very near east
+dark area adjacent north, northeast, southeast, south, southwest, and northwest
+stairs down adjacent east
+
+cursor:
+Yourself a barbarian
+(x=41, y=8)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                    <....@>                                     
+                                    . .                                         
+                                    . .                                         
+                                    .                                           
+                                    .                                           
+                                    .                                           
+                                    .                                           
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Plunderess           St:18 Dx:18 Co:16 In:9 Wi:9 Ch:8 Chaotic S:0     
+Dlvl:1 $:0 HP:16(16) Pw:2(2) AC:7 Xp:1/0                                        
+
+",0.0,False
+5,east,,"message:
+ 
+No  Points     Name                                                   Hp [max]
+0  Agent-Bar-Hum-Fem-Cha quit in The Dungeons of Doom on
+level 1.                                               16  [16]
+
+
+language observation:
+dark area adjacent east, southeast, and south
+
+cursor:
+very far eastsoutheast 
+(x=77, y=6)
+
+map:
+ No  Points     Name                                                   Hp [max] 
+                                                                                
+            0  Agent-Bar-Hum-Fem-Cha quit in The Dungeons of Doom on            
+                                                                                
+              level 1.                                               16  [16]   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+
+",1.0,True

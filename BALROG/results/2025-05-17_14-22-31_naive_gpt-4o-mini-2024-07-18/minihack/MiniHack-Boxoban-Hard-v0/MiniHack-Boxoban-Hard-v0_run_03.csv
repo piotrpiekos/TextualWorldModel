@@ -1,0 +1,1192 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,south,,"message:
+
+
+language observation:
+dark area far south, southwest, and west
+bars near northnortheast, eastnortheast, eastsoutheast, southeast, southsoutheast, southsouthwest, westsouthwest, west, westnorthwest, northwest, and northnorthwest
+bars near northnortheast, eastnortheast, eastsoutheast, southeast, southsoutheast, southsouthwest, westsouthwest, west, westnorthwest, northwest, and northnorthwest
+dark area near north, northeast, east, southeast, and northwest
+fountain near eastsoutheast
+fountains near southsouthwest
+boulder near southwest
+boulder very near northeast, southsouthwest, and northnorthwest
+bars very near southwest, westsouthwest, and west
+stairs up adjacent north
+bars adjacent northeast, east, and west
+fountain adjacent southwest
+
+cursor:
+Yourself a tourist
+(x=39, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####@#..#                                    
+                                  ####{...{#                                    
+                                  #.##`....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+1,south,,"message:
+
+
+language observation:
+dark area far north, west, and northwest
+bars near northnortheast, eastnortheast, eastsoutheast, southeast, southsoutheast, southsouthwest, westsouthwest, west, westnorthwest, northwest, and northnorthwest
+bars near northnortheast, eastnortheast, eastsoutheast, southeast, southsoutheast, southsouthwest, westsouthwest, west, westnorthwest, northwest, and northnorthwest
+boulder near northnortheast, westsouthwest, and northnorthwest
+dark area near northeast, east, southeast, south, and southwest
+fountain near east and southsouthwest
+stairs up very near north
+bars very near northnortheast, southeast, southsoutheast, westsouthwest, west, and westnorthwest
+fountain very near southsouthwest
+bars adjacent northeast and northwest
+boulder adjacent southwest
+fountain adjacent west
+
+cursor:
+Yourself a tourist
+(x=39, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####{@..{#                                    
+                                  #.##`....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+2,south,,"message:
+
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, west, and northwest
+stairs up near north
+bars near northnortheast, eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, west, westnorthwest, northwest, and northnorthwest
+bars near northnortheast, eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, west, westnorthwest, northwest, and northnorthwest
+boulder near northnortheast, westsouthwest, and northnorthwest
+dark area near northeast, east, southeast, south, and southwest
+fountain near eastnortheast
+bars very near northnortheast, eastsoutheast, southeast, southsoutheast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southwest
+bars adjacent southeast
+fountain adjacent southwest and northwest
+boulder adjacent west
+
+cursor:
+Yourself a tourist
+(x=39, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####{...{#                                    
+                                  #.##`@...#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+3,south,,"message:
+
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, west, and northwest
+stairs up near north
+boulder near northnortheast, west, and northnorthwest
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+dark area near northeast, east, southeast, south, and southwest
+fountain near eastnortheast
+bars very near east, eastsoutheast, southeast, southsoutheast, south, southsouthwest, southwest, westnorthwest, and northwest
+fountain very near westsouthwest and northnorthwest
+bars adjacent east and southeast
+fountain adjacent west
+boulder adjacent northwest
+
+cursor:
+Yourself a tourist
+(x=39, y=15)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####{...{#                                    
+                                  #.##`....#                                    
+                                  #.`.{@####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+4,south,,"message:
+
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, west, and northwest
+boulder far northnortheast and northnorthwest
+stairs up near north
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near northeast and northnorthwest
+dark area near northeast and east
+boulder near westnorthwest
+bars very near eastnortheast, east, eastsoutheast, westsouthwest, and northwest
+dark area very near southeast, south, and southwest
+fountain very near west
+boulder very near northnorthwest
+bars adjacent northeast, east, southeast, south, and southwest
+fountain adjacent northwest
+
+cursor:
+Yourself a tourist
+(x=39, y=16)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####{...{#                                    
+                                  #.##`....#                                    
+                                  #.`.{.####                                    
+                                  #..{.@####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+5,south,,"message:
+You cannot pass through the bars.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, west, and northwest
+boulder far northnortheast and northnorthwest
+stairs up near north
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near northeast and northnorthwest
+dark area near northeast and east
+boulder near westnorthwest
+bars very near eastnortheast, east, eastsoutheast, westsouthwest, and northwest
+dark area very near southeast, south, and southwest
+fountain very near west
+boulder very near northnorthwest
+bars adjacent northeast, east, southeast, south, and southwest
+fountain adjacent northwest
+
+cursor:
+Yourself a tourist
+(x=39, y=16)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####{...{#                                    
+                                  #.##`....#                                    
+                                  #.`.{.####                                    
+                                  #..{.@####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+6,west,,"message:
+
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+boulder far north and northnortheast
+dark area far north, northeast, and east
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near north and eastnortheast
+stairs up near northnortheast
+dark area near west and northwest
+boulder very near north and westnorthwest
+bars very near eastnortheast, east, eastsoutheast, westsouthwest, northwest, and northnorthwest
+dark area very near southeast, south, and southwest
+fountain adjacent north and west
+bars adjacent southeast, south, and southwest
+
+cursor:
+Yourself a tourist
+(x=38, y=16)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####{...{#                                    
+                                  #.##`....#                                    
+                                  #.`.{.####                                    
+                                  #..{@.####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+7,north,,"message:
+
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+stairs up near northnortheast
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+fountain very near north
+bars very near east, eastsoutheast, southeast, southsoutheast, south, southsouthwest, southwest, westnorthwest, northwest, and northnorthwest
+boulder very near west
+boulder adjacent north
+fountain adjacent southwest
+bars adjacent northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=15)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####{...{#                                    
+                                  #.##`....#                                    
+                                  #.`.@.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+8,north,,"message:
+With great effort you move the boulder.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",0.099,False
+9,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+10,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+11,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+12,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+13,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+14,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+15,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+16,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+17,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+18,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+19,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+20,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+21,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+22,north,,"message:
+You try to move the boulder, but in vain.
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+stairs up near northnortheast
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near eastnortheast, eastsoutheast, southsoutheast, southsouthwest, westsouthwest, westnorthwest, northwest, and northnorthwest
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+bars very near north, northeast, eastsoutheast, southeast, west, westnorthwest, northwest, and northnorthwest
+fountain very near southsouthwest
+boulder very near westsouthwest
+boulder adjacent north
+fountain adjacent south
+bars adjacent west and northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=14)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##@....#                                    
+                                  #.`.{.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False
+23,south,,"message:
+
+
+language observation:
+bars far northnortheast and northnorthwest
+bars far northnortheast and northnorthwest
+dark area far north, northeast, and east
+boulder near north and northnortheast
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+bars near northnortheast, eastnortheast, east, eastsoutheast, westsouthwest, westnorthwest, northwest, and northnorthwest
+stairs up near northnortheast
+fountain near eastnortheast
+dark area near southeast, south, southwest, west, and northwest
+boulder very near north and west
+bars very near east, eastsoutheast, southeast, southsoutheast, south, southsouthwest, southwest, westnorthwest, northwest, and northnorthwest
+fountain adjacent southwest
+bars adjacent northwest
+
+cursor:
+Yourself a tourist
+(x=38, y=15)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  ##########                                    
+                                  ####.....#                                    
+                                  ###.`..`.#                                    
+                                  ###..<#..#                                    
+                                  #####.#..#                                    
+                                  ####`...{#                                    
+                                  #.##.....#                                    
+                                  #.`.@.####                                    
+                                  #..{..####                                    
+                                  ##########                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rambler              St:11 Dx:14 Co:11 In:13 Wi:8 Ch:18 Neutral S:0   
+Dlvl:1 $:74 HP:10(10) Pw:2(2) AC:10 Xp:1/0                                      
+
+",-0.001,False

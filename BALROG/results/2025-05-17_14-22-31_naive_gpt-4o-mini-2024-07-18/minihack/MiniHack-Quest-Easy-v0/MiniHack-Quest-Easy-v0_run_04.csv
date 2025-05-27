@@ -1,0 +1,297 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,south,,"message:
+
+
+language observation:
+newt far eastnortheast
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+fox near east
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a healer
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}.:......--------     |                           
+                        |.@...}d....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:10 Co:15 In:9 Wi:15 Ch:16 Neutral S:0   
+Dlvl:1 $:1193 HP:13(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+1,north,,"message:
+
+
+language observation:
+newt far east
+lava near eastnortheast and east
+area of lava near eastsoutheast
+fox near east
+horizontal wall near southeast and south
+horizontal wall very near north and northeast
+vertical wall very near southwest and west
+northwest room corner very near northwest
+
+cursor:
+Yourself a healer
+(x=26, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.@...}d:......--------     |                           
+                        |.....}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:10 Co:15 In:9 Wi:15 Ch:16 Neutral S:0   
+Dlvl:1 $:1193 HP:13(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+2,south,,"message:
+
+
+language observation:
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+fox near eastnortheast
+newt near east
+vertical wall very near southwest, west, and northwest
+horn adjacent north
+
+cursor:
+Yourself a healer
+(x=26, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}d.....---                                        
+                        |.(...}........--------     |                           
+                        |.@...}:....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:10 Co:15 In:9 Wi:15 Ch:16 Neutral S:0   
+Dlvl:1 $:1193 HP:13(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+3,east,,"message:
+
+
+language observation:
+horizontal wall near north, northeast, southeast, and south
+lava near east
+area of lava near eastnortheast and eastsoutheast
+newt near eastnortheast
+fox near eastnortheast
+southwest corner near southwest
+vertical wall near west
+northwest room corner near northwest
+horn adjacent northwest
+
+cursor:
+Yourself a healer
+(x=27, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}......---                                        
+                        |.(...}:d......--------     |                           
+                        |..@..}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:10 Co:15 In:9 Wi:15 Ch:16 Neutral S:0   
+Dlvl:1 $:1193 HP:13(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+4,east,,"message:
+
+
+language observation:
+horizontal wall near north, northeast, southeast, south, southwest, and northwest
+fox near eastnortheast
+newt near eastnortheast
+vertical wall near west
+lava very near northeast, eastnortheast, east, eastsoutheast, and southeast
+horn very near westnorthwest
+
+cursor:
+Yourself a healer
+(x=28, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}d.....---                                        
+                        |.(...}:.......--------     |                           
+                        |...@.}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:10 Co:15 In:9 Wi:15 Ch:16 Neutral S:0   
+Dlvl:1 $:1193 HP:13(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+5,northeast,,"message:
+
+
+language observation:
+fox near eastnortheast
+horizontal wall near southeast, south, and southwest
+lava near southsoutheast
+horn near west
+vertical wall near west
+horizontal wall very near north, northeast, and northwest
+newt very near eastnortheast
+lava very near southsoutheast
+lava adjacent northeast, east, and southeast
+
+cursor:
+Yourself a healer
+(x=29, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                        --------------                                          
+                        |.....}:d....---                                        
+                        |.(..@}........--------     |                           
+                        |.....}.....................|                           
+                        |.....}........--------     |                           
+                        |.....}......---                                        
+                        --------------                                          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Rhizotomist          St:10 Dx:10 Co:15 In:9 Wi:15 Ch:16 Neutral S:0   
+Dlvl:1 $:1193 HP:13(13) Pw:6(6) AC:8 Xp:1/0                                     
+
+",0.0,False
+6,east,,"message:
+ 
+No  Points     Name                                                   Hp [max]
+0  Agent-Hea-Hum-Mal-Neu died in The Dungeons of Doom on
+level 1.  Burned by molten lava.                        -  [13]
+
+
+language observation:
+dark area adjacent east, southeast, and south
+
+cursor:
+very far eastsoutheast 
+(x=77, y=6)
+
+map:
+ No  Points     Name                                                   Hp [max] 
+                                                                                
+            0  Agent-Hea-Hum-Mal-Neu died in The Dungeons of Doom on            
+                                                                                
+              level 1.  Burned by molten lava.                        -  [13]   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+
+",0.0,True

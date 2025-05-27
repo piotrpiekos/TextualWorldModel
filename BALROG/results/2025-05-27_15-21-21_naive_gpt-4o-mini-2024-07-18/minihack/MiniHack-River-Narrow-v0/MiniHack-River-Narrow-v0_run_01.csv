@@ -1,0 +1,3407 @@
+Step,Action,Reasoning,Observation,Reward,Done
+0,northwest,,"message:
+
+
+language observation:
+dark area far northeast, east, and west
+water floor far east
+boulder far west and westnorthwest
+dark area near northwest
+dark area very near north, southeast, south, and southwest
+boulder very near northwest
+boulder adjacent north
+stairs up adjacent southeast
+
+cursor:
+Yourself a caveman
+(x=37, y=13)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...        .......}                                   
+                          .....`   . .......}                                   
+                          ........ .  ......}                                   
+                          .........`. ......}                                   
+                          ...........`......}                                   
+                              `......@......}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+1,northwest,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, and southwest
+boulder near westnorthwest
+stairs up very near southeast
+dark area very near northwest
+boulder adjacent east and northwest
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...      .........}                                   
+                          .....`   .........}                                   
+                          ........ .........}                                   
+                          .........`........}                                   
+                          ..........@`......}                                   
+                              `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+2,northeast,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest and westnorthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near southsoutheast
+boulder near westnorthwest
+boulder very near west
+boulder adjacent south
+
+cursor:
+Yourself a caveman
+(x=37, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...     ..........}                                   
+                          .....`  `.........}                                   
+                          ..................}                                   
+                          .........`.@......}                                   
+                          ...........`......}                                   
+                              `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+3,southwest,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder adjacent east and northwest
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...     ..........}                                   
+                          .....`  `.........}                                   
+                          ..................}                                   
+                          .........`........}                                   
+                          ..........@`......}                                   
+                              `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+4,northeast,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest and westnorthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near southsoutheast
+boulder near westnorthwest
+boulder very near west
+boulder adjacent south
+
+cursor:
+Yourself a caveman
+(x=37, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...     ..........}                                   
+                          .....`  `.........}                                   
+                          ..................}                                   
+                          .........`.@......}                                   
+                          ...........`......}                                   
+                              `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+5,northwest,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near southsoutheast
+boulder near westnorthwest
+boulder very near southsoutheast and westnorthwest
+boulder adjacent southwest
+
+cursor:
+Yourself a caveman
+(x=36, y=10)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...     ..........}                                   
+                          .....`  `.........}                                   
+                          ..........@.......}                                   
+                          .........`........}                                   
+                          ...........`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+6,southwest,,"message:
+With great effort you move the boulder.
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near southeast
+boulder near westsouthwest and westnorthwest
+boulder very near eastsoutheast and northnorthwest
+boulder adjacent southwest
+
+cursor:
+Yourself a caveman
+(x=35, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ...  .. ..........}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          .........@........}                                   
+                          ........`..`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+7,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near southsoutheast
+boulder near westnorthwest
+boulder very near westsouthwest and northwest
+boulder adjacent southeast
+
+cursor:
+Yourself a caveman
+(x=36, y=11)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ... ..........}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..........@.......}                                   
+                          ........`..`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+8,southwest,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+9,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+10,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+11,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+12,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+13,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+14,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+15,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+16,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+17,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+18,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+19,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+20,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+21,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+22,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+23,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+24,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+25,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+26,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+27,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+28,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+29,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+30,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+31,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+32,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+33,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+34,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+35,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+36,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+37,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+38,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+39,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+40,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+41,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+42,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+43,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+44,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+45,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+46,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+47,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+48,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+49,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+50,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+51,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+52,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+53,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+54,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+55,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+56,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+57,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+58,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+59,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+60,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+61,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+62,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+63,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+64,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+65,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+66,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+67,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+68,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+69,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+70,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+71,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+72,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+73,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+74,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+75,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+76,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+77,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+78,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+79,east,,"message:
+
+
+language observation:
+water floor far east
+dark area far east
+boulder far westsouthwest
+dark area near north, northeast, southeast, south, southwest, and northwest
+boulder near westnorthwest and northnorthwest
+stairs up very near southeast
+boulder very near west
+boulder adjacent east
+
+cursor:
+Yourself a caveman
+(x=36, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`.@`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
+80,west,,"message:
+
+
+language observation:
+water floor far east
+dark area near north, northeast, southeast, south, southwest, and northwest
+stairs up near eastsoutheast
+boulder near westsouthwest, westnorthwest, and northnorthwest
+boulder very near east
+boulder adjacent west
+
+cursor:
+Yourself a caveman
+(x=35, y=12)
+
+map:
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                          ... ..............}                                   
+                          .....`..`.........}                                   
+                          ..................}                                   
+                          ..................}                                   
+                          ........`@.`......}                                   
+                          ... `.............}                                   
+                          ............<.....}                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Agent the Troglodyte           St:18/01 Dx:15 Co:17 In:7 Wi:8 Ch:9 Lawful S:0   
+Dlvl:1 $:0 HP:18(18) Pw:1(1) AC:8 Xp:1/0                                        
+
+",0.0,False
