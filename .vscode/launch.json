@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "test train_textworld",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "train_textworld.py",
+            "console": "integratedTerminal",
+        },
+
+        {
+            "name": "test cmake",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "test_cmake.py",
+            "console": "integratedTerminal",
+        },
+
+        {
+            "name": "test cmake",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "test_cmake.py",
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "test_balrog_nethack_wrapper",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "test_balrog_nethack_wrapper.py",
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "World Model eval",
+            "type": "debugpy",
+            "request": "launch",
+            "cwd": "/home/piekosp/Projects/TextualWorldModel/BALROG",
+            "program": "eval.py",
+            "console": "integratedTerminal",
+            "env": {
+                "OPENAI_API_KEY": "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"
+            },
+            "args": [
+              "agent.type=naive",
+              "agent.max_image_history=0",
+              "agent.max_text_history=16",
+              "eval.num_workers=1",
+              "client.client_name=openai", 
+              "client.model_id=gpt-4o-mini-2024-07-18"
+            ]
+        }
+    ]
+}
